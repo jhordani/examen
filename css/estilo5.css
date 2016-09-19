@@ -38,4 +38,10 @@ a:hover{
 }
 
 
+/*selector separado por un espacio*/
+
+p[id~="textooo"]{
+
+    background: #5c5cc9;
+}
 
