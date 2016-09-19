@@ -23,5 +23,13 @@ p[class]{
 }
 
 
+/*selector comienza con*/
 
+nav{
+    padding: 20px 20px 20px 20px;
+}
+a[href^="http://"]{
+    background: green;
+    font-size: 30px;
+}
 
