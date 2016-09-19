@@ -16,6 +16,11 @@ header ~p{
 ul>li{
     background: red;
     text-decoration: none;
+    font-size: 30px;
+    color: greenyellow;
+}
+li:hover{
+    background: yellow;
 }
 
 
