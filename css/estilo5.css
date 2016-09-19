@@ -1,0 +1,15 @@
+*{
+    border: 0px;
+    margin: 0px;
+
+}
+h1{
+    color: blue;
+}
+
+p[id]{
+    color: green;
+    background: red;
+}
+
+
