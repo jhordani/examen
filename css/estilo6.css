@@ -1,10 +1,16 @@
 *{
     border: 0px;
+    margin: 0px;
 
 }
 
 body{
        background: #59f0e5;
+}
+header{
+    width: 100%;
+
+
 }
 #principal{
     float: right;
@@ -13,22 +19,42 @@ body{
 
 }
 
+
 .nav{
 color: #4df44d;
     font-size: 25px;
     text-decoration: none;
 }
 
-.cuerpo{
-    float:right;
+
+#sect{
+    width: 100%;
 }
-#texto{
-    width: 35%;
+.texto{
+    float: left;
+     padding: 20px 20px 20px 50px;
+}
+#tex{
+    width: 90%;
     background: red;
+    padding: 20px 0px 0px 50px;
 }
+
 #img{
-    width: 30%;
+    width: 60%;
+    padding: 30px 20px 30px 300px;
 }
-#te{
-   width:  35%;
+#text{
+   width:  80%;
+padding: 20px 0px 0px 50px;
+    background: green;
 }
+
+a:visit{
+    color: aqua;
+}
+a:hover{
+    background: yellow;
+}
+
+
