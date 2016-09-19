@@ -4,8 +4,12 @@
 
 #principal{
     float: right;
+    background: #b43333;
+    padding: 20px 20px 20px 20px;
 }
 
 .nav{
-
+color: #4df44d;
+    font-size: 25px;
+    text-decoration: none;
 }
