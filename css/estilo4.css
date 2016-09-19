@@ -5,3 +5,17 @@
 header ~p{
     color: aqua;
 }
+
+
+
+
+
+
+/*¨selector hijo*/
+
+ul>li{
+    background: red;
+    text-decoration: none;
+}
+
+
